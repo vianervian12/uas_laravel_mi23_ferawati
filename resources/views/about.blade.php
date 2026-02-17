@@ -11,7 +11,7 @@
         <div style="display: flex; flex-direction: column; gap: 1.5rem;">
             <div style="display: flex; border-bottom: 1px solid rgba(255, 255, 255, 0.05); padding-bottom: 1rem;">
                 <span style="min-width: 150px; color: var(--text-muted); font-weight: 500;">NIM</span>
-                <span style="color: var(--text-color); font-weight: 600;">2357401005</span>
+                <span style="color: var(--text-color); font-weight: 600;">2357401008</span>
             </div>
             
             <div style="display: flex; border-bottom: 1px solid rgba(255, 255, 255, 0.05); padding-bottom: 1rem;">
@@ -26,7 +26,7 @@
 
             <div style="display: flex; border-bottom: 1px solid rgba(255, 255, 255, 0.05); padding-bottom: 1rem;">
                 <span style="min-width: 150px; color: var(--text-muted); font-weight: 500;">Github</span>
-                <a href="https://github.com/uas_laravel_mi23" style="color: var(--accent-color); text-decoration: none;">https://github.com/uas_laravel_mi23</a>
+                <a href="https://github.com/uas_laravel_mi23" style="color: var(--accent-color); text-decoration: none;">https://github.com/vianervian12/uas_laravel_mi23_ferawati.git</a>
             </div>
         </div>
     </div>
